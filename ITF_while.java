@@ -9,6 +9,7 @@ public class ITF_while {
         // cat timp mai avem benzina, putem accelera, masina merge
         while (benzina_ramasa>0) {
             System.out.println("Vruuum! Vruuum!");
+            // in timp ce masina accelereaza, se consuma 1L de benzina
             benzina_ramasa = benzina_ramasa - 1;
         }
 
