@@ -1,4 +1,4 @@
-public class ITF_02_if_else {
+public class Main {
 
     public static void main(String[] args) {
         // verifica conditii de sus in jos, rand pe rand
