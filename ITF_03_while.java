@@ -1,4 +1,4 @@
-public class ITF_03_while {
+public class Main {
 
     public static void main(String[] args) {
 
