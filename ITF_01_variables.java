@@ -1,4 +1,4 @@
-public class ITF_01_variables {
+public class Main {
     public static void main(String[] args) {
         /*
         variabile = zone din memorie care tin date (incep cu litera mica, nu contin spatii)
